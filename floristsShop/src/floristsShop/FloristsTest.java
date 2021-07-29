@@ -1,5 +1,5 @@
 /**
-he app simulates shopping at a "self-service" florist.
+This program simulates shopping at a "self-service" florist.
 There are flowers in the florist's shop, flowers have their names and colors. Flower prices are included in the price list.
 Customers come to florist shop. Clients have names and they have some kind of money. They pick flowers and put them on a shopping cart. They then pay for the contents of the cart and repack it into a flower box
 **/
